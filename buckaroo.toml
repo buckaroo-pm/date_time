@@ -1,4 +1,4 @@
-targets = [ "//:date_time" ]
+targets = [ "//:date-time" ]
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-throw_exception"
