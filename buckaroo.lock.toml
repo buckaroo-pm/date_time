@@ -70,11 +70,11 @@ target = "//:winapi"
 
 [lock."github.com/buckaroo-pm/boost-algorithm"]
 versions = [ "branch=master" ]
-revision = "ec374e1e81ac217aa424123181472246f41d8c2c"
+revision = "81660693b6473d0ec6d000a01fd74b7dadd22106"
 
 [lock."github.com/buckaroo-pm/boost-align"]
 versions = [ "branch=master" ]
-revision = "cb3c7a31931f9f02b3c663fa96f208c4f9055a44"
+revision = "6587b84e4fb0711bd7d0930b415ca7937e72021b"
 
 [lock."github.com/buckaroo-pm/boost-array"]
 versions = [ "branch=master" ]
@@ -90,11 +90,11 @@ revision = "5a8bb5676742a02b9e2d343ecec66639da9deb3e"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
-revision = "f2f2d0d85496b72eeff1186518deb7e23c757bfd"
+revision = "60c77dd14f5bac2b9e6c59f308b7ad20d31f70ab"
 
 [lock."github.com/buckaroo-pm/boost-container"]
 versions = [ "branch=master" ]
-revision = "fb0dbf2f863db4b7dfc9e3cff17319e2d0a6a3df"
+revision = "ad0d657f10d51aa7a72b6ae530e2e8a13316718e"
 
 [lock."github.com/buckaroo-pm/boost-container_hash"]
 versions = [ "branch=master" ]
@@ -102,11 +102,11 @@ revision = "ddd9a887f1f0253ded4455d455b3c54228067b74"
 
 [lock."github.com/buckaroo-pm/boost-core"]
 versions = [ "branch=master" ]
-revision = "10b589cb4aea4ca823237059f104cbfdd09b0f0e"
+revision = "82480080750b32b3ef2e3f12157b5c556ae35c0d"
 
 [lock."github.com/buckaroo-pm/boost-detail"]
 versions = [ "branch=master" ]
-revision = "94aa5268c1a74468be94b40afd730aea1730ceab"
+revision = "ec2d46a5e413ca9f1c97b2628732bc114e83e3f8"
 
 [lock."github.com/buckaroo-pm/boost-exception"]
 versions = [ "branch=master" ]
@@ -114,7 +114,15 @@ revision = "1795a6e9756f4d9ac60d43e2b9b07ec7ddfdbfb7"
 
 [lock."github.com/buckaroo-pm/boost-function"]
 versions = [ "branch=master" ]
-revision = "1eca491e9ecb82359cb6346376554f057a7470d8"
+revision = "8c1210ba8984d6d86625ffc3d94acf3b710fa6f8"
+
+[lock."github.com/buckaroo-pm/boost-function_types"]
+versions = [ "branch=master" ]
+revision = "bb8ffe4d24071f3942a18b274cc7f3ee0dc91eb2"
+
+[lock."github.com/buckaroo-pm/boost-functional"]
+versions = [ "branch=master" ]
+revision = "28b42e6161041316b359b53682f075522cd48d6f"
 
 [lock."github.com/buckaroo-pm/boost-integer"]
 versions = [ "branch=master" ]
@@ -122,11 +130,11 @@ revision = "5badcf5b232a15e89d0701bef687ffbe70398696"
 
 [lock."github.com/buckaroo-pm/boost-intrusive"]
 versions = [ "branch=master" ]
-revision = "4470c0f1a809e06ab91ac67eeef3b1317430de2e"
+revision = "d812ed3ac7c7d573249e49fe23aa12339629c730"
 
 [lock."github.com/buckaroo-pm/boost-io"]
 versions = [ "branch=master" ]
-revision = "5f2d3799ad8147c189e90bf16e7ef429188458a9"
+revision = "70c28ebaa83b1fd6907db8f542d7be8abc6835b4"
 
 [lock."github.com/buckaroo-pm/boost-iterator"]
 versions = [ "branch=master" ]
@@ -134,7 +142,7 @@ revision = "c84fc34d0f6386edb15b0cb854a12864b6f15232"
 
 [lock."github.com/buckaroo-pm/boost-lexical_cast"]
 versions = [ "branch=master" ]
-revision = "faf2a66c39c1803227dcd54281894535bcb686b1"
+revision = "040e45441844325cf42bbb45b275c32203a95375"
 
 [lock."github.com/buckaroo-pm/boost-move"]
 versions = [ "branch=master" ]
@@ -148,6 +156,10 @@ revision = "6493fcda0f5cd2ee595346ca48ff495db9fa74d5"
 versions = [ "branch=master" ]
 revision = "35fa920e0b53c124b0b5972b1802032933c71fca"
 
+[lock."github.com/buckaroo-pm/boost-optional"]
+versions = [ "branch=master" ]
+revision = "9c3529ad17d35171ffaa689ebfee9f21ce616129"
+
 [lock."github.com/buckaroo-pm/boost-predef"]
 versions = [ "branch=master" ]
 revision = "73def0812b7235e0312079c729342787819bf1d5"
@@ -158,23 +170,23 @@ revision = "a70772bbd315eb597c3f1e359af742dde46a6f37"
 
 [lock."github.com/buckaroo-pm/boost-range"]
 versions = [ "branch=master" ]
-revision = "bfbf1223a064828414338d293346bacfba5baacb"
+revision = "10482c9459133c139137e459d8e1051246866983"
 
 [lock."github.com/buckaroo-pm/boost-regex"]
 versions = [ "branch=master" ]
-revision = "4117987ba6ce4c8300dc986226b39c154dc22de8"
+revision = "c03a752db0bc55e196e4866e7d8fb9792bfbe4a5"
 
 [lock."github.com/buckaroo-pm/boost-serialization"]
 versions = [ "branch=master" ]
-revision = "fbb73d94011d94afe389df2175e0618f188d3144"
+revision = "3cb7f143fead7a6a21f99d58bc2154bb6f85a031"
 
 [lock."github.com/buckaroo-pm/boost-smart_ptr"]
 versions = [ "branch=master" ]
-revision = "360ba641a719a115373a2721b169086029fb4358"
+revision = "613f7a038214f92d7235de669bedc3710657f353"
 
 [lock."github.com/buckaroo-pm/boost-static_assert"]
 versions = [ "branch=master" ]
-revision = "4b9da4628bc69ad0e9b244d3ec885f2eadac95d8"
+revision = "8256c9846a133573ff959e0a7dc0cadb8fba5192"
 
 [lock."github.com/buckaroo-pm/boost-throw_exception"]
 versions = [ "branch=master" ]
@@ -182,19 +194,27 @@ revision = "788503e2365554d1860c6d2043999e3430d1f7a5"
 
 [lock."github.com/buckaroo-pm/boost-tokenizer"]
 versions = [ "branch=master" ]
-revision = "9c706fb9587949da99855353ec3bb314af1a53d1"
+revision = "f0c1947d9414a0b40784b2da7a26eaedf1002150"
 
 [lock."github.com/buckaroo-pm/boost-tuple"]
 versions = [ "branch=master" ]
 revision = "5ffb0abec6da0d9986690b32d20218769a50086b"
 
+[lock."github.com/buckaroo-pm/boost-type_index"]
+versions = [ "branch=master" ]
+revision = "a8183e0bdcaafdda1183c0279137acadcb5b4466"
+
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
-revision = "a34caf51f831ffb77d1057c668b5db620863d191"
+revision = "b8e0fcc49cede65c3b4ef18ed5aa797225578467"
+
+[lock."github.com/buckaroo-pm/boost-typeof"]
+versions = [ "branch=master" ]
+revision = "e8cb7bc76c55f02a24f824fecf5cdf0629dc3aa4"
 
 [lock."github.com/buckaroo-pm/boost-unordered"]
 versions = [ "branch=master" ]
-revision = "3dc0b01d31125081942c05afa4b354a9011156ca"
+revision = "7fe9837e937e161a537fcb869a678bfe54d18b2c"
 
 [lock."github.com/buckaroo-pm/boost-utility"]
 versions = [ "branch=master" ]
@@ -202,7 +222,7 @@ revision = "57aa216434800315c9cd2664169e444e3070a677"
 
 [lock."github.com/buckaroo-pm/boost-winapi"]
 versions = [ "branch=master" ]
-revision = "5b320a02051a6d1732335d5f12465fb0d99df086"
+revision = "92c47b2e1db8a7c023d394e979f81438b410fd18"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
