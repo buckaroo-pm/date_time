@@ -146,7 +146,7 @@ revision = "c84fc34d0f6386edb15b0cb854a12864b6f15232"
 
 [lock."github.com/buckaroo-pm/boost-lexical_cast"]
 versions = [ "branch=master" ]
-revision = "040e45441844325cf42bbb45b275c32203a95375"
+revision = "9f6d656caf4b0037327c426219de6ef676a2ccdc"
 
 [lock."github.com/buckaroo-pm/boost-move"]
 versions = [ "branch=master" ]
