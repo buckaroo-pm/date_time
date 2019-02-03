@@ -1,0 +1,9 @@
+**/test_facet_file.out
+**/time_duration_serialization.*
+
+.buckd
+buck-out
+.buckconfig.d
+.buckconfig.local
+buckaroo
+buckaroo_macros.bzl
