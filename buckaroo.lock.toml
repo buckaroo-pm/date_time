@@ -1,4 +1,4 @@
-manifest = "6d7607e9daade87891f92c3afe37329437fc8fb18b40f6cc3ea421c8d85ededc"
+manifest = "c08914d7b9d78543efb30fa5e01961e4096a1c30b5a1a394b21d2fcd5118c494"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-algorithm"
@@ -138,7 +138,7 @@ revision = "d812ed3ac7c7d573249e49fe23aa12339629c730"
 
 [lock."github.com/buckaroo-pm/boost-io"]
 versions = [ "branch=master" ]
-revision = "70c28ebaa83b1fd6907db8f542d7be8abc6835b4"
+revision = "e6f5b8de720f0a55409b6ef901f9ae7e676c6cd9"
 
 [lock."github.com/buckaroo-pm/boost-iterator"]
 versions = [ "branch=master" ]
