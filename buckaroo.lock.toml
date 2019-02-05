@@ -98,7 +98,7 @@ revision = "4392ed19b232ed2dde7623843d7e30ef669d860e"
 
 [lock."github.com/buckaroo-pm/boost-container"]
 versions = [ "branch=master" ]
-revision = "bb4226c58e17f8880779f19559a50e497f2bfcba"
+revision = "efac3fd353ac5f106dbffb0813ad5e67688ee84d"
 
 [lock."github.com/buckaroo-pm/boost-container_hash"]
 versions = [ "branch=master" ]
@@ -134,7 +134,7 @@ revision = "43c7296e8513fcb9cda6e88396e863995c0d0cb5"
 
 [lock."github.com/buckaroo-pm/boost-intrusive"]
 versions = [ "branch=master" ]
-revision = "d812ed3ac7c7d573249e49fe23aa12339629c730"
+revision = "b78ebe67512688e4402ce97d2ee7e28652da3ff3"
 
 [lock."github.com/buckaroo-pm/boost-io"]
 versions = [ "branch=master" ]
@@ -146,7 +146,7 @@ revision = "6cf70fbf057ecbfec43013b7e39ef5011000798a"
 
 [lock."github.com/buckaroo-pm/boost-lexical_cast"]
 versions = [ "branch=master" ]
-revision = "9f6d656caf4b0037327c426219de6ef676a2ccdc"
+revision = "4a042cb0006e6bbdced9a44da97eb894521df42f"
 
 [lock."github.com/buckaroo-pm/boost-move"]
 versions = [ "branch=master" ]
@@ -198,7 +198,7 @@ revision = "3951e0ca1d6b909bbc815858acbe2449c4a53eed"
 
 [lock."github.com/buckaroo-pm/boost-tokenizer"]
 versions = [ "branch=master" ]
-revision = "f0c1947d9414a0b40784b2da7a26eaedf1002150"
+revision = "e41edaf556bd8898b26822c4853860154bdef199"
 
 [lock."github.com/buckaroo-pm/boost-tuple"]
 versions = [ "branch=master" ]
